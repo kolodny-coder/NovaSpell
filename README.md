@@ -1,5 +1,7 @@
-# ✨ SpellCheck Buddy (Alfred Workflow)
-A simple one-keystroke spell-checking helper powered by **AWS Nova**.
+# ✨ SpellCheck Buddy (A simple one-keystroke spell-checking helper powered by **AWS Nova**.)
+
+![NovaSpell Demo](./assets/NovaSpell.gif)
+
 
 Highlight any text → press your shortcut → get back a corrected version instantly.  
 No popup windows, no switching apps — it fixes your writing in place.
@@ -39,10 +41,6 @@ A friction-free writing assistant right inside your keyboard.
 1. Highlight any text anywhere (Mail, Notion, VSCode, Safari…)
 2. Hit your assigned workflow shortcut
 3. Text is magically corrected in place ✨
-
-Demo:
-
-![NovaSpell Demo](./assets/NovaSpell.gif)
 
 
 ---
